@@ -1,0 +1,12 @@
+# Logs y temporales
+*.log
+.DS_Store
+Thumbs.db
+
+# WordPress uploads y upgrades (archivos dinámicos de medios)
+wp-content/upgrade/
+
+# Respaldos
+*.sql
+*.tar.gz
+*.zip
